@@ -9,9 +9,6 @@ pub use async_trait;
 pub use serde;
 pub use serde_json;
 pub use serde_derive;
-pub use sea_orm;
-pub use async_std;
-pub use sea_orm_migration;
 
 /*
 pub use hyper;
