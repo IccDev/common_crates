@@ -10,10 +10,12 @@ pub use serde;
 pub use serde_json;
 pub use serde_derive;
 pub use hyper;
-pub use match_request;
+//pub use match_request;
 pub use futures;
 pub use multipart;
 pub use http_body_util;
+pub use lazy_static;
+pub use regex;
 
 /*
 pub use mime;
