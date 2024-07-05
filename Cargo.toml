@@ -25,4 +25,4 @@ multipart = "0.18"
 http-body-util = "0.1"
 lazy_static = "1.5"
 regex = "1.10"
-hyper-util = "0.1"
+hyper-util = { version = "0.1", features = ["server-auto", "tokio"]}
