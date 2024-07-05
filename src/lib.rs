@@ -9,13 +9,13 @@ pub use async_trait;
 pub use serde;
 pub use serde_json;
 pub use serde_derive;
-
-/*
 pub use hyper;
-pub use futures;
 pub use match_request;
+pub use futures;
 pub use multipart;
 pub use mime;
+
+/*
 pub use uuid;
 pub use mailchecker;
 pub use zxcvbn;
