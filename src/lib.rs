@@ -13,9 +13,9 @@ pub use hyper;
 pub use match_request;
 pub use futures;
 pub use multipart;
-pub use mime;
 
 /*
+pub use mime;
 pub use uuid;
 pub use mailchecker;
 pub use zxcvbn;
