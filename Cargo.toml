@@ -22,3 +22,4 @@ hyper = {version = "1.4", features = ["server", "http1", "http2"]}
 match_request = "0.1"
 futures = "0.3"
 multipart = "0.18"
+http-body-util = "0.1"

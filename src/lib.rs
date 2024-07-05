@@ -13,6 +13,7 @@ pub use hyper;
 pub use match_request;
 pub use futures;
 pub use multipart;
+pub use http_body_util;
 
 /*
 pub use mime;
