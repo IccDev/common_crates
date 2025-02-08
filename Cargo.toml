@@ -27,5 +27,5 @@ lazy_static = "1.5"
 regex = "1.10"
 hyper-util = { version = "0.1", features = ["server-auto", "tokio"]}
 chrono = "0.4"
-tls-listener = {version = "0.10", features = ["openssl"]}
+tls-listener = {version = "0.10", features = ["rustls-core"]}
 tokio-rustls = {version = "0.26"}
