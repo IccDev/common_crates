@@ -30,3 +30,4 @@ chrono = "0.4"
 tls-listener = {version = "0.10", features = ["rustls-core"]}
 tokio-rustls = {version = "0.26"}
 rustls-pemfile = "2.2"
+rustls = "0.23"
